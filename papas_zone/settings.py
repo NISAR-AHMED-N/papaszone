@@ -27,6 +27,7 @@ SECRET_KEY = 'django-insecure-g7_s_f4j0=^z(uxdzg1o0icz-&q=&cl^8^3era%ta18$d2x-%-
 DEBUG = True
 
 ALLOWED_HOSTS = [
+    'https://papaszone.onrender.com',
     'localhost',
     '127.0.0.1',
 ]
